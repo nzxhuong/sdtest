@@ -1,0 +1,95 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 1EC7-EA86
+E:.
+³   .gitignore
+³   512by512.py
+³   LICENSE
+³   main.py
+³   output.txt
+³   README.md
+³   requirements.txt
+³   savedmask.pt
+³   test.sh
+³   
+ÃÄÄÄcheckpoints
+³   ³   celeba_hq.ckpt
+³   ³   
+³   ÃÄÄÄdiffusion_lsun_bedroom_model
+³   ³       model-2388000.ckpt
+³   ³       
+³   ÀÄÄÄdiffusion_lsun_church_model
+³           model-4432000.ckpt
+³           
+ÃÄÄÄcolab_demo
+³       strokes_0.pth
+³       strokes_1.pth
+³       strokes_2.pth
+³       
+ÃÄÄÄcolab_utils
+³       utils.py
+³       
+ÃÄÄÄconfigs
+³       bedroom.yml
+³       celeba.yml
+³       church.yml
+³       
+ÃÄÄÄfunctions
+³   ³   prepare_data.py
+³   ³   process_data.py
+³   ³   
+³   ÃÄÄÄcolab_demo
+³   ÃÄÄÄtest_images
+³   ³   ÀÄÄÄstrokes
+³   ³           1.png
+³   ³           2.png
+³   ³           3.png
+³   ³           
+³   ÀÄÄÄ__pycache__
+³           process_data.cpython-311.pyc
+³           process_data.cpython-39.pyc
+³           
+ÃÄÄÄimages
+³       celeba_edit.jpg
+³       sde_animation.gif
+³       sde_stroke_generation.jpg
+³       stroke_based_generation.jpg
+³       stroke_edit.jpg
+³       stroke_generation_extra.jpg
+³       teaser.jpg
+³       text_guided_img2img.png
+³       
+ÃÄÄÄmodels
+³   ³   diffusion.py
+³   ³   ema.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           diffusion.cpython-311.pyc
+³           diffusion.cpython-39.pyc
+³           
+ÃÄÄÄrunners
+³   ³   image_editing.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           image_editing.cpython-311.pyc
+³           image_editing.cpython-39.pyc
+³           
+ÃÄÄÄruns
+³   ÃÄÄÄimage_samples
+³   ³   ³   init_0.png
+³   ³   ³   original_input.png
+³   ³   ³   x0_0.png
+³   ³   ³   
+³   ³   ÀÄÄÄimages
+³   ÀÄÄÄstroke_2
+³       ÀÄÄÄimage_samples
+³               init_0.png
+³               original_input.png
+³               x0_0.png
+³               
+ÀÄÄÄtest_images
+    ÃÄÄÄstrokes
+    ³       1.png
+    ³       2.png
+    ³       3.png
+    ³       
+    ÀÄÄÄstrokes - Copy
